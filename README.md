@@ -1,1 +1,2 @@
 # odin-recipes
+This will be my first project in which I will be testing out the different skills I have learned in HTML. I will be working on making lists, adding images to my website, and imbedding links to other websites within my HTML file. 

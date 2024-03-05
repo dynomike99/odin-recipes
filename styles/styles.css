@@ -1,0 +1,14 @@
+#title {
+    color: #FF5833;
+    font-size: 45px;
+    text-align: center;
+    font-family: "times new roman", serif;
+    font-weight: 400;
+}
+
+.one,
+.two,
+.three {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

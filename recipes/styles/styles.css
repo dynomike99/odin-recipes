@@ -1,0 +1,21 @@
+#title {
+    color: blue;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
+
+.Description {
+    text-align: center;
+}
+
+.Ingredients {
+    background-color: aqua;
+}
+
+.Steps {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
